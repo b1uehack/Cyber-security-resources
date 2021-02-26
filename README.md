@@ -8,12 +8,12 @@ Credits are also included for some google docs
 ---
 ### Index
 
-- #### [[#Networking]]
-- #### [[#Web Pentesting]]
-- #### [[#Binary expolitation]]
-- #### [[#Hacking Sites]]
-- #### [[#Random resources]]
-- #### [[#Cheat sheets]]
+- #### [#Networking]
+- #### [#Web Pentesting]
+- #### [#Binary expolitation]
+- #### [#Hacking Sites]
+- #### [#Random resources]
+- #### [#Cheat sheets]
 ---
 
  ## Networking
