@@ -39,7 +39,6 @@ Credits are also included for some google docs
 ## Binary expolitation
 - #### [Pwn College ](https://pwn.college/modules/intro "https://pwn.college/modules/intro")
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html "https://opensecuritytraining.info/IntroX86.html")
-- 
 
 ---
 
