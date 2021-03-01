@@ -18,6 +18,7 @@ Credits are also included for some google docs
 ---
 
  ## Networking
+- #### [Networking Fundamentals](https://www.netacad.com/courses/networking/networking-essential)
 - #### [The Five Pillars of an Information/Cyber Security Professional](https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md "https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md")
 
 - #### [Professor Messor N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd "https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd")
