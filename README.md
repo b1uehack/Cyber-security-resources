@@ -12,6 +12,7 @@ Credits are also included for some google docs
 - #### Web Pentesting
 - #### Binary expolitation
 - #### Hacking Sites
+- #### Programming 
 - #### Active Directory
 - #### Random resources
 - #### Cheat sheets
@@ -50,6 +51,11 @@ Credits are also included for some google docs
 - #### [List of *hackable* sites](https://razvioverflow.github.io/starthacking)
 
 ---
+
+## Programming
+ - #### [Programming Books](https://books.goalkicker.com/)
+
+--- 
 
 ## Active Directory	
 - #### [Active Directory Security](https://adsecurity.org/)
