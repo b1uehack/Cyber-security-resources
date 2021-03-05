@@ -32,6 +32,7 @@ Credits are also included for some google docs
 ---
 
 ## Web Pentesting
+ - #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
  - #### [SQL Injection](https://portswigger.net/web-security/sql-injection)
  - #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0 "https://gosecure.github.io/template-injection-workshop/#0")
  - #### [OWASP's Top Ten Vulns (By Night and Skelli)](https://docs.google.com/presentation/d/1Hnn9PSs7zvtQyEFfxTvlQLbDhc0Jr5KaQwp0gw3anXM/edit#slide=id.g708a6ee8a1_0_46)
