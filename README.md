@@ -1,4 +1,4 @@
-# Cyber-security-resources
+# Cyber Security Resources
 I have collected many resources and may add many more in the future thanks :)
 It will help you 
 
