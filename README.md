@@ -15,6 +15,7 @@ Credits are also included for some google docs
 - #### Programming 
 - #### Active Directory
 - #### Random resources
+- #### Buffer Overflows
 - #### Cheat sheets
 ---
 
@@ -65,6 +66,11 @@ Credits are also included for some google docs
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits "https://github.com/offensive-security/exploit-database-bin-sploits") 
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
 - #### [Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+---
+## Buffer Overflows
+- #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
+- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
+
 ---
 ## Cheat sheets
 - Penetration Tools Cheat Sheet
