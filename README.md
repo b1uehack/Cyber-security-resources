@@ -63,7 +63,7 @@ Credits are also included for some google docs
 ## Random resources
 - #### Precompiled Exploits: 
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits "https://github.com/offensive-security/exploit-database-bin-sploits") 
-
+- #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
 ---
 ## Cheat sheets
 - Penetration Tools Cheat Sheet
