@@ -64,6 +64,7 @@ Credits are also included for some google docs
 - #### Precompiled Exploits: 
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits "https://github.com/offensive-security/exploit-database-bin-sploits") 
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
+- #### [Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
 ---
 ## Cheat sheets
 - Penetration Tools Cheat Sheet
@@ -73,7 +74,8 @@ Credits are also included for some google docs
 
 
 - OSCP Cheatsheets 
-	- #### [OSCP Cheatsheets](https://github.com/slyth11907/Cheatsheets "https://github.com/slyth11907/Cheatsheets") 
+	- #### [OSCP Cheatsheets](https://github.com/slyth11907/Cheatsheets "https://github.com/slyth11907/Cheatsheets")
+	- #### [OSCP Preparation Guide 2021](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) 
 - CEH Cheatsheet 
 	- #### [CEH cheatsheet](https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf "https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf") 
 - Net Bios Scan Cheat Sheet 
